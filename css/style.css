@@ -1,0 +1,486 @@
+/*-- header area start --*/
+
+.header{
+	background: #212529;
+	padding: 20px 50px;
+}
+
+.logo img{
+	width: 200px;
+}
+
+.menu ul{
+	list-style-type: none;
+}
+
+.menu ul li{
+	display: inline-block;
+	padding: 0px 18px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	color: #fed136
+}
+/*-- header area end --*/
+
+/*-- hero area start --*/
+.hero{
+	padding: 110px 0;
+	background: url(../img/header-bg.jpg);
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-size: cover;
+	 color:#fff;
+}
+
+.hero-wrapper h3{
+	font-size: 35px;
+	font-style: italic;
+}
+
+.hero-wrapper h1{
+	font-size: 79px;
+	margin-top: 14px;
+	font-weight: bold;
+}
+
+.hero-wrapper a{
+	text-decoration: none;
+	border: 1px solid #fed136;
+	background: #fed136;
+	color: #fff;
+	padding: 15px 47px;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 5px;
+	margin-top: 40px;
+	display: inline-block;
+}
+/*-- hero area end --*/
+
+/*-- services area start --*/
+.services{
+	padding: 90px 0;
+}
+
+.services-wrapper h1{
+	font-size: 60px;
+	font-weight: bold;
+	color: #333;
+}
+
+.services-wrapper p{
+	font-size: 23px;
+	font-style: italic;
+	color: #666;
+}
+
+.Commerce-Security{
+	margin-top: 90px;
+}
+
+.Commerce span{
+	font-size: 50px;
+	background: #fed136;
+	padding: 25px 30px;
+	border: 0;
+	border-radius: 50%;
+	color: #fff;
+}
+
+.Commerce h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 40px;
+}
+
+.Commerce p{
+	font-size: 18px;
+	font-style: normal;
+	color: #666;
+}
+
+.Responsive span{
+	font-size: 50px;
+	background: #fed136;
+	padding: 25px 30px;
+	border: 0;
+	border-radius: 50%;
+	color: #fff;
+}
+
+.Responsive h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 40px;
+	color: #333;
+}
+
+.Responsive p{
+	font-size: 18px;
+	font-style: normal;
+	color: #666666;
+}
+
+.Security span{
+	font-size: 50px;
+	background: #fed136;
+	padding: 25px 35px;
+	border: 0;
+	border-radius: 50%;
+	color: #fff;
+}
+
+.Security h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 40px;
+}
+
+.Security p{
+	font-size: 18px;
+	font-style: normal;
+	color: #666666;
+}
+
+/*-- services area end --*/
+
+
+/*-- Portfolio area start --*/
+
+.Portfolio{
+	background: #f8f9fa;
+	padding: 80px 0;
+}
+
+.Portfolio-wrapper h1{
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #333;
+	font-weight: bold;
+}
+
+.Portfolio-wrapper p{
+	font-size: 19px;
+	color: #666;
+	font-style: italic;
+}
+
+.Threads-Photography{
+	margin-top: 70px;
+}
+
+.Threads{
+	background: #fff;
+}
+
+.Threads img{
+	width: 100%;
+}
+
+.Illustration{
+	padding: 15px 0;
+}
+
+.Illustration h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Illustration p{
+	font-size: 19px;
+	color: #666;
+	font-style: italic;
+}
+
+.Lines{
+	background: #fff;
+	margin-top: 30px;
+}
+
+.Lines img{
+	width: 100%;
+}
+
+.Branding{
+	padding: 15px 0;
+}
+
+.Branding h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Branding p{
+	font-size: 19px;
+	color: #666;
+	font-style: italic;
+}
+
+.Explore{
+	background: #fff;
+}
+
+.Explore img{
+	width: 100%;
+}
+
+.Graphic{
+	padding: 15px 0;
+}
+
+.Graphic h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Graphic p{
+	font-size: 19px;
+	color: #666;
+	font-style: italic;
+}
+
+.Southwest{
+	background: #fff;
+	margin-top: 30px;
+}
+
+.Southwest img{
+	width: 100%;
+}
+
+.Website{
+	padding: 15px 0;
+}
+
+.Website h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Website p{
+	font-size: 18px;
+	color: #666;
+	font-style: italic;
+}
+
+.Finish{
+	background: #fff;
+}
+
+.Finish img{
+	width: 100%;
+}
+
+.Identity{
+	padding: 15px 0;
+}
+
+.Identity h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Identity p{
+	font-size: 19px;
+	color: #666;
+	font-style: italic;
+}
+
+.Window{
+	background: #fff;
+	margin-top: 30px;
+}
+
+.Window img{
+	width: 100%;
+}
+
+.Photography{
+	padding: 15px 0;
+}
+
+.Photography h2{
+	font-size: 30px;
+	font-weight: bold;
+	color: #333;
+}
+
+.Photography p{
+	font-size: 18px;
+	color: #666;
+	font-style: italic;
+}
+/*-- Portfolio area end --*/
+
+/*-- Team area start --*/
+.Team{
+	background: #f8f9fa;
+	padding: 80px 0;
+	margin-top: 20px;
+}
+
+.Team-wrapper h1{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #333;
+}
+
+.Team-wrapper p{
+	font-size: 17px;
+	font-style: italic;
+	color: #666;
+}
+
+.Lead-Designer{
+	margin-top: 70px;
+}
+
+.Lead img{
+	width: 250px;
+	height: 250px;
+	border: 10px solid rgba(0, 0, 0, 0.1);
+	border-radius: 50%;
+}
+
+.Designer h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 20px;
+	color: #333;
+}
+
+.Designer p{
+	font-size: 20px;
+  color: #666;
+	font-style: normal;
+}
+
+.icon li{
+	display: inline-block;
+	padding: 0 10px;
+}
+
+.icon li a{
+	text-decoration: none;
+	background: #343a40;
+	font-size: 25px;
+	padding: 5px 12px;
+	color: #fff;
+	border-radius: 50%;
+}
+
+.ipsum p{
+	font-size: 18px;
+	font-style: normal;
+	color: #666;
+	margin-top: 50px;
+}
+/*-- Team area end --*/
+
+/*-- envato area start --*/
+.envato{
+	padding: 50px 0;
+}
+.col-lg-3 img{
+	width: 100%;
+}
+/*-- envato area end --*/
+
+
+/*-- Contact area start --*/
+.contact-area {
+	background: url(../img/contact-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 100px 0;
+	position: relative;
+}
+
+.contact-area:after {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	left: 0;
+	top: 0;
+	z-index: -1;
+}
+
+.contact-header {
+	text-align: center;
+}
+
+.contact-header h2 {
+	font-size: 45px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.contact-header p {
+	font-weight: 400;
+	color: #aaa;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.form-box input, .form-box textarea  {
+	display: block;
+	width: 100%;
+	outline:none;
+	border:none;
+	padding: 15px 20px;
+	background: #ffff;
+	border-radius: 5px;
+	margin: 20px 0;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.form-btn {
+	text-align: center;	
+} 
+
+.form-btn  button {
+	outline: none;
+	display: inline-block;
+	padding: 15px 30px;
+	border:none;
+	color:#fff;
+	font-weight: 700;
+	background: #FEC810;
+	font-size: 18px;
+	border-radius: 10px;
+	transition: all 0.2 ease;
+	-moz-transition: all 0.2 ease;
+	-webkit-transition: all 0.2 ease;
+	cursor: pointer;
+}
+
+.form-btn  button:hover {
+	opacity: 0.8;
+}
+
+/*-- Contact area end --*/
+
+
+
+
+
+
+
+
+
